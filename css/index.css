@@ -1,0 +1,47 @@
+
+.top{
+display: inline-grid;
+align-items: center;
+grid-template-columns: auto auto;
+grid-column-gap: 300px;
+padding: 10px;
+background: #D18C2E;
+color: white;
+width: 100%;
+}
+.background {
+  background: url("../images/wedding.jpg");
+  background-size: cover;
+  background-position: top center;
+
+  height: 700px;
+}
+.socialmedia {
+float: right;
+padding-right: 25px;
+
+}
+.navbar ul {
+list-style: none;
+text-align: center;
+margin-top: -225px;
+padding: 50px;
+}
+
+.navbar ul li {
+display: inline-grid;
+margin-top: 25px;
+padding: 35px;
+font-size: 18px;
+}
+.navbar ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.class{
+
+
+}
+img{
+  color: CB8B6F;
+}
